@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gakki-File-Hash-Calc", "Gakki-File-Hash-Calc\Gakki-File-Hash-Calc.csproj", "{195ECDE5-5C81-4902-8F35-C1DD62394E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{195ECDE5-5C81-4902-8F35-C1DD62394E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195ECDE5-5C81-4902-8F35-C1DD62394E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195ECDE5-5C81-4902-8F35-C1DD62394E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195ECDE5-5C81-4902-8F35-C1DD62394E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C186603F-1FA4-459E-9A0E-4D95F64CE60A}
+	EndGlobalSection
+EndGlobal
